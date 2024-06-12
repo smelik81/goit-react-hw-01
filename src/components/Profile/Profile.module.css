@@ -55,9 +55,11 @@ ul {
 .profileTitle {
   font-size: 23px;
   text-align: center;
+  color: black;
 }
 .profileSubTitle {
   text-align: center;
   font-size: 27px;
   font-weight: 900;
+  color: black;
 }
